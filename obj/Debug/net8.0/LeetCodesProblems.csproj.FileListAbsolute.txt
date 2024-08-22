@@ -1,0 +1,15 @@
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.AssemblyInfoInputs.cache
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.AssemblyInfo.cs
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.sourcelink.json
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\bin\Debug\net8.0\LeetCodesProblems.exe
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\bin\Debug\net8.0\LeetCodesProblems.deps.json
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\bin\Debug\net8.0\LeetCodesProblems.runtimeconfig.json
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\bin\Debug\net8.0\LeetCodesProblems.dll
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\bin\Debug\net8.0\LeetCodesProblems.pdb
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.dll
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\refint\LeetCodesProblems.dll
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.pdb
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\LeetCodesProblems.genruntimeconfig.cache
+C:\Users\Giorgi\Source\Repos\LeetCodeProblems\obj\Debug\net8.0\ref\LeetCodesProblems.dll
