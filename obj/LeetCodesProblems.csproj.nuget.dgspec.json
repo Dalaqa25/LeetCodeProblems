@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\LeetCodesProblems.csproj": {}
+    "C:\\Users\\Giorgi\\source\\repos\\LeetCodeProblems\\LeetCodesProblems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\LeetCodesProblems.csproj": {
+    "C:\\Users\\Giorgi\\source\\repos\\LeetCodeProblems\\LeetCodesProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\LeetCodesProblems.csproj",
+        "projectUniqueName": "C:\\Users\\Giorgi\\source\\repos\\LeetCodeProblems\\LeetCodesProblems.csproj",
         "projectName": "LeetCodesProblems",
-        "projectPath": "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\LeetCodesProblems.csproj",
+        "projectPath": "C:\\Users\\Giorgi\\source\\repos\\LeetCodeProblems\\LeetCodesProblems.csproj",
         "packagesPath": "C:\\Users\\Giorgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\obj\\",
+        "outputPath": "C:\\Users\\Giorgi\\source\\repos\\LeetCodeProblems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giorgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
