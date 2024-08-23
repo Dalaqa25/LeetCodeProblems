@@ -10,46 +10,23 @@ namespace LeetCodesProblems
     {
         static int[] TwoSum(int[] nums, int target)
         {
-            int left = 0;
-            int right = nums.Length - 1;
+            Dictionary<int, int> map = new Dictionary<int, int>();
 
-            while (left < right)
+            for (int i = 0; i < nums.Length; i++)
             {
-                int sum = nums[left] + nums[right];
+                int complement = target - nums[i];
 
-                if (sum == target)
+                if (map.ContainsKey(complement))
                 {
-                    return new int[] { left, right };
+                    return new int[] { map[complement], i };
                 }
-                else if (sum < target)
+
+                if (!map.ContainsKey(nums[i]))
                 {
-                    left++;
-                }
-                else
-                {
-                    right--;
+                    map[nums[i]] = i;
                 }
             }
             return null;
-        }
-
-
-        static public void Main(String[] args)
-        {
-            int[] nums = { 1, 2, 3, 4, 5, 6 };
-            int target = 9;
-
-            int[] result = TwoSum(nums, target);
-
-            if (result != null)
-            {
-                Console.WriteLine("indecses " + result[0] + ", " + result[1]);
-            }
-            else
-            {
-                Console.WriteLine("NotFound!");
-            }
-        }
-        
+        }        
     }
 }
