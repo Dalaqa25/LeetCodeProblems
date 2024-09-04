@@ -1,32 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace LeetCodesProblems
+public class Solution 
 {
-    public class Solution
+    public int[] TwoSum(int[] nums, int target) 
     {
-        static int[] TwoSum(int[] nums, int target)
+        // hashSet
+        HashSet<int> set = new HashSet<int>();
+        
+        // loop
+        for (int i = 0; i < nums.Length; i++)
         {
-            Dictionary<int, int> map = new Dictionary<int, int>();
+            int complemant = target - nums[i];
 
-            for (int i = 0; i < nums.Length; i++)
+            if (set.Contains(complemant))
             {
-                int complement = target - nums[i];
-
-                if (map.ContainsKey(complement))
-                {
-                    return new int[] { map[complement], i };
-                }
-
-                if (!map.ContainsKey(nums[i]))
-                {
-                    map[nums[i]] = i;
-                }
+                return new int[]{Array.IndexOf(nums, complemant)};
             }
-            return null;
-        }        
+            set.Add(nums[i]);
+        }
+        throw new ArgumentException("No two sum solution");
+    }
+}
+
+class Program {
+    static void Main() {
+
     }
 }

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Giorgi\\.nuget\\packages\\": {}
+    "C:\\Users\\DALAQA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\LeetCodesProblems.csproj",
-      "projectName": "LeetCodesProblems",
-      "projectPath": "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\LeetCodesProblems.csproj",
-      "packagesPath": "C:\\Users\\Giorgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Giorgi\\Source\\Repos\\LeetCodeProblems\\obj\\",
+      "projectUniqueName": "C:\\Users\\DALAQA\\RiderProjects\\LeetCodeProblems\\LeetCodeProblems.csproj",
+      "projectName": "LeetCodeProblems",
+      "projectPath": "C:\\Users\\DALAQA\\RiderProjects\\LeetCodeProblems\\LeetCodeProblems.csproj",
+      "packagesPath": "C:\\Users\\DALAQA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DALAQA\\RiderProjects\\LeetCodeProblems\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Giorgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DALAQA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
