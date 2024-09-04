@@ -6,26 +6,25 @@ public class PalindromeNumber
     {
         // Negative numbers are not palindromes
         if (x < 0) return false;
-        
-        //convert to string
+
+        // Convert the number to a string
         string s = x.ToString();
-        
-        // set pointers
+
+        // Set pointers
         int left = 0;
         int right = s.Length - 1;
-        
-        
-        while (left < right)
+
+        while (left < right) // Keep checking until pointers cross
         {
-            // If they are aren't 
-            if (s[left] != s[right])
-                return false;
-            
-            // If they are
+            if (s[left] != s[right]) // If characters don't match
+                return false; // Not a palindrome
+
+            // Move pointers closer to the center
             left++;
-            right++;
+            right--;
         }
 
+        // If all characters match, it's a palindrome
         return true;
     }
 }
