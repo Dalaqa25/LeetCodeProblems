@@ -22,9 +22,3 @@ public class Solution
         throw new ArgumentException("No two sum solution");
     }
 }
-
-class Program {
-    static void Main() {
-
-    }
-}
