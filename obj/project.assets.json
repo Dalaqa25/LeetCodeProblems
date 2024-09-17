@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DALAQA\\.nuget\\packages\\": {}
+    "C:\\Users\\Giorgi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DALAQA\\RiderProjects\\LeetCodeProblems\\LeetCodeProblems.csproj",
+      "projectUniqueName": "D:\\C#\\LeetCodeProblems\\LeetCodeProblems.csproj",
       "projectName": "LeetCodeProblems",
-      "projectPath": "C:\\Users\\DALAQA\\RiderProjects\\LeetCodeProblems\\LeetCodeProblems.csproj",
-      "packagesPath": "C:\\Users\\DALAQA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DALAQA\\RiderProjects\\LeetCodeProblems\\obj\\",
+      "projectPath": "D:\\C#\\LeetCodeProblems\\LeetCodeProblems.csproj",
+      "packagesPath": "C:\\Users\\Giorgi\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\LeetCodeProblems\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DALAQA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Giorgi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
